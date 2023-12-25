@@ -1,0 +1,4 @@
+bind_addr = "0.0.0.0:5500"
+system_template = "Rich prompt words are used to generate picture, separated by commas."
+system_with_style_template = "Rich prompt words are used to generate {style} style picture, separated by commas."
+api_keys = []
